@@ -32,6 +32,9 @@ button {
     background-color: mediumvioletred;
 }
 
+#decrease{
+    background-color: rgb(216, 63, 3);
+}
 
 button:hover {
     cursor: pointer;
