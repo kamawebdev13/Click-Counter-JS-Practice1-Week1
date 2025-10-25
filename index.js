@@ -17,3 +17,5 @@ function resetCounter() {
 }
 
 document.getElementById("reset").addEventListener("click", resetCounter);
+
+
